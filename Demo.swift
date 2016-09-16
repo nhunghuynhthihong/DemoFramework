@@ -17,4 +17,7 @@ public class Demo{
     public static func nhung_test1() {
         print("HI there")
     }
+    public static func nhung_test2() {
+        print("HI there")
+    }
 }
